@@ -6,7 +6,7 @@ only bright skull on dark background) in `test/data` directory of the project. S
 `try:` and `except:` functions to make sure all files are present.
 ##### Required Modules
 In order to start a project you need to create a virtual environment with:\
-*tensorflows*\
+*tensorflow*\
 *keras*\
 *numpy*\
 *pillow*\
